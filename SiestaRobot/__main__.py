@@ -102,15 +102,15 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="ᴀᴅᴅ ᴀᴠɪᴠᴇᴋ sᴀᴍᴜʀᴀɪ", url="t.me/FANTASTICFIGHTERBOT?startgroup=new"),
+            text="ᴀᴅᴅ 𝗕𝗮𝗱𝗕𝗼𝗬 ●︿●", url="t.me/@Badboi_X_bot?startgroup=new"),
     ],
 ]
 
 
 HELP_STRINGS = """
-✪ [𝙲𝙻𝙸𝙲𝙺](https://te.legra.ph/file/f95ebea77c1488dd21938.jpg) 𝙾𝙽 𝚃𝙷𝙴 𝙱𝚄𝚃𝚃𝙾𝙽 𝙱𝙴𝙻𝙻𝙾𝚆 𝚃𝙾 𝙶𝙴𝚃 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝚃𝙸𝙾𝙽 𝙰𝙱𝙾𝚄𝚃 𝚂𝙿𝙴𝙲𝙸𝙵𝙸𝙲𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳"""
+✪ [𝙲𝙻𝙸𝙲𝙺](https://telegra.ph/file/f9e614cf9ff20af897016.jpg) 𝙾𝙽 𝚃𝙷𝙴 𝙱𝚄𝚃𝚃𝙾𝙽 𝙱𝙴𝙻𝙻𝙾𝚆 𝚃𝙾 𝙶𝙴𝚃 𝙳𝙴𝚂𝙲𝚁𝙸𝙿𝚃𝙸𝙾𝙽 𝙰𝙱𝙾𝚄𝚃 𝚂𝙿𝙴𝙲𝙸𝙵𝙸𝙲𝚂 𝙲𝙾𝙼𝙼𝙰𝙽𝙳"""
 
-EMI_IMG = "https://te.legra.ph/file/f95ebea77c1488dd21938.jpg"
+EMI_IMG = "https://telegra.ph/file/f9e614cf9ff20af897016.jpg"
 
 DONATE_STRING = """ʜᴏɪɪ ᴍᴇ [ᴀᴠɪᴠᴇᴋ sᴀᴍᴜʀᴀɪ](https://t.me/DUSHMANxRONIN)"""
 
@@ -438,8 +438,8 @@ def siesta_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/Ronin_Fighters_FD"),
-                    InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Ronin_Fighters_FD"),
+                    InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url="https://t.me/https://t.me/anim_freak"),
+                    InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇs", url="https://t.me/badboi_support"),
                  ],
                  [
                     InlineKeyboardButton(text="ɢᴏ ʙᴀᴄᴋ", callback_data="siesta_"),
@@ -783,7 +783,7 @@ def main():
         try:
             dispatcher.bot.sendMessage(
                 f"@{SUPPORT_CHAT}", 
-                f"""**𝚅𝙴𝙽𝙾𝙼 𝚁𝙾𝙱𝙾𝚃 𝚂𝚃𝙰𝚁𝚃𝙴𝙳 🇮🇳**
+                f"""**liu wulang robot🇮🇳**
 
 **Python:** `{memek()}`
 **Telegram Library:** `v{peler}`""",
